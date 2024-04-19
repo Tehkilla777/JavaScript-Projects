@@ -1,0 +1,38 @@
+.slide1{
+	height: 100vh;
+	background-image: url(./Background.png);
+	box-sizing: border-box;
+}
+
+.slide2{
+	background: green;
+}
+
+.slide3{
+	background: grey;
+	text-align: center;
+}
+
+.slide1 h1{
+	position: absolute;
+	top: 30%;
+	width: 100%;
+	text-align: center;
+	font-size: 80px;
+	border-style: double;
+	border-width: thick;
+	color: white;
+	border-color: white;
+}
+
+.slide2 h1{
+	font-size: 60px;
+}
+
+.slide3 h1{
+	font-size: 50px;
+}
+
+.slide3 h2{
+	font-size: 40px;
+}
